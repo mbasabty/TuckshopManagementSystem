@@ -1,4 +1,4 @@
-The Department of Basic Education required us to design and program a utilitarian system that is user-friendly 
+The Department of Basic Education required us grade 11 of 2023 to design and program a utilitarian system that is user-friendly 
 and can be used by any user at the point of sale in South African school tuck shops as part of the 2023 Practical 
 Assessment Task (PAT). I really enjoyed creating this.
 
