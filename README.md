@@ -1,4 +1,6 @@
-The Department of Basic Education required Grade 11 Information Technology learners in 2023 to design and program a user-friendly, utilitarian system that could be used by any user at a point-of-sale in a South African school context. As part of my 2023 Practical Assessment Task (PAT) for Information Technology, I developed a tuck shop system for the school’s recreational ground. I really enjoyed creating this system, as it allowed me to apply programming concepts to a practical, real-world scenario. I really enjoyed doing this and I learned so much from the experience.
+<p style="text-align: justify;">
+The Department of Basic Education required Grade 11 Information Technology learners in 2023 to design and program a user-friendly point-of-sale system for a South African school context. For my Practical Assessment Task (PAT), I developed a tuck shop system for the school’s recreational ground. I really enjoyed doing this and learned a lot from the experience.
+</p>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
 
